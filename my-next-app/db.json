@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Third Post",
+            "alias": "Third-post",
+            "link": "/post/post-ketiga",
+            "excerpt": "In amet fugiat laborum adipisicing consectetur pariatur in et proident excepteur anim minim.",
+            "body": "Anim cupidatat ad laborum reprehenderit sit ullamco laborum tempor velit quis nostrud minim ipsum. Cupidatat ipsum quis consequat duis officia eu deserunt qui officia deserunt minim. Eu enim ea mollit veniam ex consectetur minim nisi. Enim deserunt labore aute Lorem Lorem aliqua ea esse magna elit tempor."
+        },
+        {
+            "id": "1",
+            "title": "Last Post",
+            "alias": "Last-post",
+            "link": "/post/post-terakhir",
+            "excerpt": "Nostrud commodo ipsum sint ea in ut irure sunt do anim in magna.",
+            "body": "Veniam dolore elit id dolore irure. Irure ad non consectetur do pariatur nulla id id excepteur commodo aliqua ea esse aliqua. Nostrud in dolore aliqua ut elit voluptate ut irure. Incididunt laboris do occaecat culpa aliqua ipsum sunt nisi elit aliquip ea culpa enim elit. Non consectetur exercitation laboris incididunt in exercitation. Minim ipsum aute consectetur eu fugiat ut ipsum quis et. Exercitation ullamco dolor aliqua minim elit labore deserunt sit nisi magna aliqua."
+        }
+    ]
+}
